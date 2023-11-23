@@ -16,8 +16,7 @@ a JSON with the following structure:
       "filename": "ota-package.zip",
       "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
       "size": 314572800,
-      "url": "https://example.com/ota-package.zip",
-      "version": "unity"
+      "url": "https://example.com/ota-package.zip"
     }
   ]
 }
@@ -28,7 +27,6 @@ The `filename` attribute is the name of the file to be downloaded.
 The `id` attribute is a string that uniquely identifies the update.  
 The `size` attribute is the size of the update expressed in bytes.  
 The `url` attribute is the URL of the file to be downloaded.  
-The `version` attribute is the string to be compared with the `ro.build.version.custom` property.  
 
 Additional attributes are ignored.
 
