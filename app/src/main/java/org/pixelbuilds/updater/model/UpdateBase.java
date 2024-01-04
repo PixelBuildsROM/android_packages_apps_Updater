@@ -17,6 +17,10 @@ package org.pixelbuilds.updater.model;
 
 import android.os.SystemProperties;
 
+import java.util.Locale;
+
+import org.pixelbuilds.updater.misc.Constants;
+
 public class UpdateBase implements UpdateBaseInfo {
 
     private String mName;
