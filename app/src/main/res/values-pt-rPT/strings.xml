@@ -62,7 +62,6 @@
     <string name="snack_download_verification_failed">A verificação da atualização falhou.</string>
     <string name="snack_download_verified">Transferência concluída.</string>
     <string name="snack_update_not_installable">Esta atualização não pode ser instalada por cima da compilação atual.</string>
-    <string name="header_android_version">Android <xliff:g id="version" example="7.1.2">%1$s</xliff:g></string>
     <string name="header_last_updates_check">Última verificação: <xliff:g id="date" example="1 January 1970">%1$s</xliff:g> (<xliff:g id="time" example="01:23">%2$s</xliff:g>)</string>
     <string name="list_build_version">PixelBuilds <xliff:g id="version" example="unity">%1$s</xliff:g></string>
     <string name="list_build_version_date">PixelBuilds <xliff:g id="version" example="unity">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
@@ -105,7 +104,6 @@
     <string name="update_over_metered_network_title">Aviso</string>
     <string name="checkbox_metered_network_warning">Não mostrar novamente</string>
     <string name="blocked_update_dialog_title">Atualização bloqueada</string>
-    <string name="blocked_update_dialog_message">Esta atualização não pode ser instalada usando a aplicação do atualizador.  Por favor, leia <xliff:g id="info_url">%1$s </xliff:g> para mais informações.</string>
     <string name="export_channel_title">Conclusão da exportação</string>
     <string name="new_updates_channel_title">Novas atualizações</string>
     <string name="ongoing_channel_title">Transferências em curso</string>

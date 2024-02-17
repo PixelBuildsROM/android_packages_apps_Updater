@@ -29,7 +29,7 @@
     <string name="new_updates_found_title">有新的更新</string>
     <string name="text_download_speed">%1$s，%2$s/秒</string>
     <string name="pause_button">暫停</string>
-    <string name="resume_button">恢復</string>
+    <string name="resume_button">繼續</string>
     <string name="suspend_button">暫停</string>
     <string name="installing_update">正在安裝更新套件</string>
     <string name="installing_update_error">安裝錯誤</string>
@@ -54,7 +54,7 @@
     <string name="menu_show_changelog">顯示更新日誌</string>
     <string name="menu_ab_perf_mode">優先更新過程</string>
     <string name="menu_update_recovery">更新 Recovery</string>
-    <string name="toast_forced_update_recovery">無法停用此裝置上的 Lineage Recovery 更新。</string>
+    <string name="toast_forced_update_recovery">無法停用此裝置上的 PB Recovery 更新。</string>
     <string name="snack_updates_found">發現新的更新</string>
     <string name="snack_no_updates_found">沒有找到新的更新</string>
     <string name="snack_updates_check_failed">更新檢查失敗。請檢查您的網路連線並稍後重試。</string>
@@ -62,7 +62,7 @@
     <string name="snack_download_verification_failed">更新驗證失敗。</string>
     <string name="snack_download_verified">下載已完成。</string>
     <string name="snack_update_not_installable">此更新無法安裝在目前版本上。</string>
-    <string name="header_android_version">Android <xliff:g id="version" example="7.1.2">%1$s</xliff:g></string>
+    <string name="header_android_version">Android <xliff:g id="version" example="unity">%1$s</xliff:g></string>
     <string name="header_last_updates_check">上次檢查：<xliff:g id="date" example="1 January 1970">%1$s</xliff:g> (<xliff:g id="time" example="01:23">%2$s</xliff:g>)</string>
     <string name="list_build_version">PixelBuilds <xliff:g id="version" example="unity">%1$s</xliff:g></string>
     <string name="list_build_version_date">PixelBuilds <xliff:g id="version" example="unity">%1$s</xliff:g>-<xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
@@ -104,7 +104,7 @@
     <string name="checkbox_metered_network_warning">不再顯示</string>
     <string name="menu_metered_network_warning">計量付費網路警告</string>
     <string name="blocked_update_dialog_title">更新已被封鎖</string>
-    <string name="blocked_update_dialog_message">無法使用更新應用程式安裝此更新。 有關詳細資訊，請閱讀 <xliff:g id="info_url">%1$s </xliff:g> 。</string>
+    <string name="blocked_update_dialog_message">無法使用更新程式安裝此更新。 相關資訊，請閱讀 <xliff:g id="info_url">%1$s</xliff:g>。</string>
     <string name="export_channel_title">匯出完成</string>
     <string name="new_updates_channel_title">有新的更新</string>
     <string name="ongoing_channel_title">目前下載</string>
@@ -118,4 +118,5 @@
     <string name="local_update_import_failure">匯入本機更新檔案失敗</string>
     <string name="local_update_import_install">安裝</string>
     <string name="local_update_name">本機更新</string>
+    <string name="blocked_update_dialog_message_custom">無法使用更新程式來安裝這個更新。請嘗試在 Recovery 模式中更新。</string>
 </resources>

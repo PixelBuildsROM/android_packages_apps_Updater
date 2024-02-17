@@ -62,7 +62,6 @@
     <string name="snack_download_verification_failed">Ověření aktualizace se nezdařilo.</string>
     <string name="snack_download_verified">Stahování úspěšné.</string>
     <string name="snack_update_not_installable">Tuto aktualizaci nelze nainstalovat přes aktuální sestavení.</string>
-    <string name="header_android_version">Android <xliff:g id="version" example="7.1.2">%1$s</xliff:g></string>
     <string name="header_last_updates_check">Poslední kontrola: <xliff:g id="date" example="1 January 1970">%1$s</xliff:g> (<xliff:g id="time" example="01:23">%2$s</xliff:g>)</string>
     <string name="list_build_version">PixelBuilds <xliff:g id="version" example="unity">%1$s</xliff:g></string>
     <string name="list_build_version_date">PixelBuilds <xliff:g id="version" example="unity">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
@@ -113,7 +112,6 @@
     <string name="checkbox_metered_network_warning">Znovu nezobrazovat</string>
     <string name="menu_metered_network_warning">Upozornění na měřenou síť</string>
     <string name="blocked_update_dialog_title">Aktualizace zablokována</string>
-    <string name="blocked_update_dialog_message">Tuto aktualizaci nelze nainstalovat pomocí aplikace aktualizace.  Přečtěte si <xliff:g id="info_url">%1$s </xliff:g> pro další informace.</string>
     <string name="export_channel_title">Dokončení exportu</string>
     <string name="new_updates_channel_title">Nové aktualizace</string>
     <string name="ongoing_channel_title">Probíhající stahování</string>
