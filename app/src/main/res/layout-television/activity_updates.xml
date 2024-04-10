@@ -24,15 +24,17 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <TextView
-                android:id="@+id/header_title"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:fontFamily="@*android:string/config_headlineFontFamily"
-                android:paddingBottom="16dp"
-                android:textColor="?android:attr/textColorPrimary"
-                android:textSize="56sp"
-                tools:text="PixelBuilds\nunity" />
+        <ImageView
+            android:id="@+id/header_image"
+            android:layout_marginHorizontal="60dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:adjustViewBounds="true"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:scaleType="centerInside"
+            android:src="@drawable/pixelbuilds_banner"
+            android:tint="@android:color/system_accent1_200"/>
 
             <TextView
                 android:id="@+id/header_build_version"
