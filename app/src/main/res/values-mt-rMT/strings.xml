@@ -71,12 +71,12 @@
     <string name="snack_download_verification_failed">Il-verifika tal-update falliet.</string>
     <string name="snack_download_verified">Tniżżil lest.</string>
     <string name="snack_update_not_installable">Dan l-update ma jistax jiġi installat fuq il-build kurrenti.</string>
-    <string name="header_android_version">Android <xliff:g id="version" example="unity">%1$s</xliff:g></string>
+    <string name="header_android_version">Android <xliff:g id="version" example="infinity">%1$s</xliff:g></string>
     <string name="header_last_updates_check">Iċċekkjat l-aħħar <xliff:g id="date" example="1 January 1970">%1$s</xliff:g> (<xliff:g id="time" example="01:23">%2$s</xliff:g>)</string>
-    <string name="list_build_version">PixelBuilds <xliff:g id="version" example="unity">%1$s</xliff:g></string>
-    <string name="list_build_version_date">PixelBuilds <xliff:g id="version" example="unity">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
-    <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="unity">%1$s</xliff:g> ta\' <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
-    <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="unity">%1$s</xliff:g> ta\' <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>
+    <string name="list_build_version">PixelBuilds <xliff:g id="version" example="infinity">%1$s</xliff:g></string>
+    <string name="list_build_version_date">PixelBuilds <xliff:g id="version" example="infinity">%1$s</xliff:g> - <xliff:g id="date" example="July 11, 2017">%2$s</xliff:g></string>
+    <string name="list_download_progress_newer"><xliff:g id="filesize_without_unit" example="infinity">%1$s</xliff:g> ta\' <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g></string>
+    <string name="list_download_progress_eta_newer"><xliff:g id="filesize_without_unit" example="infinity">%1$s</xliff:g> ta\' <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>)</string>
     <string name="list_verifying_update">Verifika tal-update</string>
     <string name="list_no_updates">Ma nstab l-ebda update ġdid. Biex tiċċekkja manwalment għal updates ġodda, uża l-buttuna Refresh.</string>
     <string name="action_download">Niżżel</string>
